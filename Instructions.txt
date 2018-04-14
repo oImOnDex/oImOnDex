@@ -1,0 +1,23 @@
+Go to your Steam folder and go to common\VRChat\VRChat_Data\Managed\ and move the VRCheat folder into the Managed folder
+Start your game and then run VRCheat.exe
+
+How to use:
+**At the top left of the screen you can see what your display name is so you can keep track of it when copying people's names**
+While a player is selected (press escape and click on their avatar), you can press these keys:
+
+Right click: Copy their avatar
+Scroll wheel button: Save their avatar (Console will ask avatar's name)
+T: Teleport to that player
+N: Copy that player's displayname *** DISABLED FOR NOW ***
+M: Send that player a notification message
+
+For the following keys you don't need to have a player selected:
+
+CTRL + N: Change your name to whatever you want (Console will ask for name) *** DISABLED FOR NOW ***
+CTRL + G: Teleport to a specific player (Console will show you a playerlist and ask you to type in a substring of the player's name)
+CTRL + R: Toggles a randomly changing name *** DISABLED FOR NOW ***
+CTRL + DELETE: Deletes your current avatar from your personal avatars (Assuming your current avatar is saved)
+CTRL + M: Teleport every pickup item to you (Might cause a crash when changing worlds)
+CTRL + O: Follow a user into their world (Console will ask for user's name)
+CTRL + F: Toggle fly mode (Use Q and E for going up/down)
+CTRL + Sroll wheel button: Save avatar by ID
